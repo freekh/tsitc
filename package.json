@@ -24,7 +24,7 @@
     "express": "^4.13.4",
     "hyperscript": "git+https://github.com/freekh/hyperscript.git",
     "multer": "^1.1.0",
-    "node-sass": "^3.7.0",
+    "node-sass": "^4.14.1",
     "parsimmon": "git+https://github.com/freekh/parsimmon.git",
     "uglifyify": "^3.0.1",
     "xhr2": "^0.1.3"
